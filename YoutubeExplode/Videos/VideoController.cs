@@ -70,7 +70,7 @@ internal class VideoController
                             "clientName": "ANDROID_TESTSUITE",
                             "clientVersion": "1.9",
                             "androidSdkVersion": 30,
-                            "hl": "en",
+                            "hl": "zh",
                             "gl": "US",
                             "utcOffsetMinutes": 0
                         }
@@ -125,7 +125,7 @@ internal class VideoController
                         "client": {
                             "clientName": "TVHTML5_SIMPLY_EMBEDDED_PLAYER",
                             "clientVersion": "2.0",
-                            "hl": "en",
+                            "hl": "zh",
                             "gl": "US",
                             "utcOffsetMinutes": 0
                         },

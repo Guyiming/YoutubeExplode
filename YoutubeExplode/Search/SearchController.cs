@@ -40,7 +40,7 @@ internal class SearchController
                         "client": {
                             "clientName": "WEB",
                             "clientVersion": "2.20210408.08.00",
-                            "hl": "en",
+                            "hl": "zh",
                             "gl": "US",
                             "utcOffsetMinutes": 0
                         }
