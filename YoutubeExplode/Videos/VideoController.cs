@@ -71,7 +71,7 @@ internal class VideoController
                             "clientVersion": "1.9",
                             "androidSdkVersion": 30,
                             "hl": "zh",
-                            "gl": "US",
+                            "gl": "HK",
                             "utcOffsetMinutes": 0
                         }
                     }
@@ -126,7 +126,7 @@ internal class VideoController
                             "clientName": "TVHTML5_SIMPLY_EMBEDDED_PLAYER",
                             "clientVersion": "2.0",
                             "hl": "zh",
-                            "gl": "US",
+                            "gl": "HK",
                             "utcOffsetMinutes": 0
                         },
                         "thirdParty": {

@@ -41,7 +41,7 @@ internal class SearchController
                             "clientName": "WEB",
                             "clientVersion": "2.20210408.08.00",
                             "hl": "zh",
-                            "gl": "US",
+                            "gl": "HK",
                             "utcOffsetMinutes": 0
                         }
                     }
